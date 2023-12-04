@@ -11,12 +11,8 @@
 3. Json Formater to validate the output that we get from the code we execute.
 
 Other libraries to support our python code.
-- googleapiclient.discovery
-pip install google-api-python-client
--pandas 
-pip install pandas
--seaborn 	
-pip install seaborn
--matplotlib
-pip install matplotlib
+1.googleapiclient.discovery: pip install google-api-python-client
+2.pandas: pip install pandas
+3.seaborn: pip install seaborn
+4.matplotlib: pip install matplotlib
 

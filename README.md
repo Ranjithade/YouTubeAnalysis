@@ -12,11 +12,11 @@
 
 Other libraries to support our python code.
 - googleapiclient.discovery
-	pip install google-api-python-client
+pip install google-api-python-client
 -pandas 
-	pip install pandas
+pip install pandas
 -seaborn 	
-	pip install seaborn
+pip install seaborn
 -matplotlib
-	pip install matplotlib
+pip install matplotlib
 

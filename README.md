@@ -2,6 +2,7 @@
 
 Overview
 This project involves scraping data from YouTube using web scraping techniques and analyzing the collected data to gain insights into video trends, engagement metrics, and channel statistics.
+I am fetching the details of 5 most popular youtube channels of Data Analysis. 
 
 1. Generating API Key
 	- Google Developer Console
@@ -26,7 +27,7 @@ Other libraries to support our python code.
 
 Features:
 
-Web Scraping: Collect YouTube video data, including titles, views, likes and Published Date.
+Web Scraping: Collecting YouTube video data, including titles, views, likes and Published Date.
 Data Analysis: Explore trends, patterns, and correlations within the collected YouTube data.
 Visualization: Create visualizations to represent key insights.
 

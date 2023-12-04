@@ -1,4 +1,8 @@
 # YouTubeAnalysis
+
+Overview
+This project involves scraping data from YouTube using web scraping techniques and analyzing the collected data to gain insights into video trends, engagement metrics, and channel statistics.
+
 1. Generating API Key
 	- Google Developer Console
 		-Create an account 
@@ -19,4 +23,16 @@ Other libraries to support our python code.
 3.seaborn: pip install seaborn
 
 4.matplotlib: pip install matplotlib
+
+Features:
+
+Web Scraping: Collect YouTube video data, including titles, views, likes and Published Date.
+Data Analysis: Explore trends, patterns, and correlations within the collected YouTube data.
+Visualization: Create visualizations to represent key insights.
+
+Technologies Used
+Python
+Pandas for data manipulation
+Matplotlib and Seaborn for data visualization
+Jupyter Notebooks for analysis
 

@@ -32,8 +32,12 @@ Data Analysis: Explore trends, patterns, and correlations within the collected Y
 Visualization: Create visualizations to represent key insights.
 
 Technologies Used
+
 Python
+
 Pandas for data manipulation
+
 Matplotlib and Seaborn for data visualization
+
 Jupyter Notebooks for analysis
 

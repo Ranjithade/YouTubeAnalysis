@@ -1,8 +1,14 @@
 # YouTube Analysis using Python Web Scraping
 
-Overview
-This project involves scraping data from YouTube using web scraping techniques and analyzing the collected data to gain insights into video trends, engagement metrics, and channel statistics.
+Overview:
+
+Web Scraping has its major value in data mining and data visualization field. This project involves scraping data from YouTube using web scraping techniques and analyzing the collected data to gain insights into video trends, engagement metrics, and channel statistics.
 I am fetching the details of 5 most popular youtube channels of Data Analysis. 
+1.The PyCoach	
+2.freeCodeCamp.org	
+3.Simplilearn
+4. Tiff In Tech	
+5. GeeksforGeeks
 
 1. Generating API Key
 	- Google Developer Console
